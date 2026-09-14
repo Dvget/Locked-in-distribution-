@@ -14,11 +14,11 @@
       "versions": [
         {
           "version": "0.8.8",
-          "buildVersion": "59",
+          "buildVersion": "60",
           "date": "2026-09-14",
-          "localizedDescription": "Build 59\n\n- Runs-Dashboard vereinfacht: Ø Distanz und Ø Pace dieser Woche, darunter nur die prozentuale Entwicklung zur Vorwoche.\n- Run-Graph kann wieder zwischen Distanz und Pace umgeschaltet werden.\n- Workout-Dashboard vereinfacht: Index und Gesamtgewicht dieser Woche, darunter nur die prozentuale Entwicklung zur Vorwoche.\n- Absolute Vorwochenwerte, Vergleichstabellen und zusätzliche „vs. Vorwoche“-Beschriftungen entfernt.\n- Gewichtsdelta semantisch eingefärbt: Abnahme grün, unverändert/kleine Zunahme bis +0,5 kg gelb, größere Zunahme rot.\n- Running-Tracking, Distanzberechnung, Pace-Tracking, GPS und Höhenmeter unverändert.",
-          "downloadURL": "https://raw.githubusercontent.com/Dvget/Locked-in-distribution-/main/LOCKED-IN_0.8.8_Build59_56d57c1.ipa",
-          "size": 3838970,
+          "localizedDescription": "Build 60\n\n- Dashboard-Detailseiten auf feste, nicht scrollende Bildschirm-Layouts umgestellt.\n- Workout-Graph kann wieder zwischen Index und Gesamtgewicht umgeschaltet werden.\n- Runs-Graph bietet Distanz, Pace und Index als auswählbare Metriken.\n- Runs nutzen die verfügbare Bildschirmhöhe besser; Workouts erhalten unten wieder etwas visuellen Freiraum.\n- Steps-Detail darf etwas höher sein, bleibt aber ohne vertikales Scrollen.\n- Gewicht behält sein Layout; der Status-Text der Waage wie „Bereit“ wurde entfernt.\n- Zurück-Navigation ist jetzt bereichsabhängig eingefärbt: Workout orange, Runs lila, Steps grün, Gewicht neutral.\n- Wochenbericht neu aufgebaut: letzte abgeschlossene Woche vs. Woche davor, nur mit sinnvoll vergleichbaren Daten und kompakten Bereichsmetriken.\n- Running-Tracking, Distanzberechnung, Pace-Tracking, GPS, Höhenmeter und Splits unverändert.",
+          "downloadURL": "https://raw.githubusercontent.com/Dvget/Locked-in-distribution-/main/LOCKED-IN_0.8.8_Build60_bc57acb.ipa",
+          "size": 3909827,
           "minOSVersion": "17.0"
         }
       ]
