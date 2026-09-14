@@ -14,11 +14,11 @@
       "versions": [
         {
           "version": "0.8.8",
-          "buildVersion": "58",
+          "buildVersion": "59",
           "date": "2026-09-14",
-          "localizedDescription": "Build 58\n\n- Dashboard Gewicht vollständig auf neutrales Weiß/Grau umgestellt.\n- Gewicht vergleicht Ø dieser Woche mit Ø Vorwoche und zeigt die Veränderung neutral.\n- Runs zeigen Ø Distanz und Ø Pace wieder direkt als Hauptinformationen.\n- Runs vergleichen diese Woche mit der Vorwoche inklusive absoluter Werte und farbiger Entwicklung.\n- Runs-Detail nutzt die verfügbare Bildschirmhöhe besser und bleibt ohne vertikales Scrollen.\n- Running-Tracking, Distanzberechnung, Pace, GPS und Höhenmeter unverändert.",
-          "downloadURL": "https://raw.githubusercontent.com/Dvget/Locked-in-distribution-/main/LOCKED-IN_0.8.8_Build58_e3162a7.ipa",
-          "size": 3839402,
+          "localizedDescription": "Build 59\n\n- Runs-Dashboard vereinfacht: Ø Distanz und Ø Pace dieser Woche, darunter nur die prozentuale Entwicklung zur Vorwoche.\n- Run-Graph kann wieder zwischen Distanz und Pace umgeschaltet werden.\n- Workout-Dashboard vereinfacht: Index und Gesamtgewicht dieser Woche, darunter nur die prozentuale Entwicklung zur Vorwoche.\n- Absolute Vorwochenwerte, Vergleichstabellen und zusätzliche „vs. Vorwoche“-Beschriftungen entfernt.\n- Gewichtsdelta semantisch eingefärbt: Abnahme grün, unverändert/kleine Zunahme bis +0,5 kg gelb, größere Zunahme rot.\n- Running-Tracking, Distanzberechnung, Pace-Tracking, GPS und Höhenmeter unverändert.",
+          "downloadURL": "https://raw.githubusercontent.com/Dvget/Locked-in-distribution-/main/LOCKED-IN_0.8.8_Build59_56d57c1.ipa",
+          "size": 3838970,
           "minOSVersion": "17.0"
         }
       ]
